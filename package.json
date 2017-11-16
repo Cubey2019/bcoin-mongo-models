@@ -1,21 +1,21 @@
 {
-  "name": "bcoin-mongo-models",
+  "name": "vcoin-mongo-models",
   "version": "1.0.0",
-  "description": "Mongodb models for Bcoin",
+  "description": "Mongodb models for Vcoin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tenthirtyone/bcoin-mongo-models.git"
+    "url": "git+https://github.com/Cubey2019/vcoin-mongo-models.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tenthirtyone/bcoin-mongo-models/issues"
+    "url": "https://github.com/Cubey2019/vcoin-mongo-models/issues"
   },
-  "homepage": "https://github.com/tenthirtyone/bcoin-mongo-models#readme",
+  "homepage": "https://github.com/Cubey2019/vcoin-mongo-models#readme",
   "dependencies": {
     "mongoose": "^4.13.2"
   }

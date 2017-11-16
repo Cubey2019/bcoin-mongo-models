@@ -1,2 +1,2 @@
-# bcoin-mongo-models
-Mongodb models for Bcoin
+# vcoin-mongo-models
+Mongodb models for Vcoin
